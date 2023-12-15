@@ -59,9 +59,19 @@ body {
 
 @media (max-width: 700px) {
     .duaTitle {
-        font-size: 22px;
+        font-size: 20px;
     }
     .mainDuaDiv {
-        font-size: 20px;
+        font-size: 18px;
+    }
+    .mainDuaDiv .duaNumber {
+        font-size: 25px;
+    }
+    .mainDuaDiv .duaRepeat  {
+        font-size: 12px;
+    }
+    .duafooter {
+        font-size: 12px;
+        text-align: center;
     }
 }
