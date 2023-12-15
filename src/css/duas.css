@@ -9,6 +9,11 @@
     box-sizing: border-box;
 }
 
+::selection {
+    color: rgb(0, 63, 63);
+    background-color: white;
+}
+
 body {
     color: white;
     background-color: rgb(0, 59, 59);
