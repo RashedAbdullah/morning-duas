@@ -56,3 +56,12 @@ body {
     font-size: 15px;
     text-align: center;
 }
+
+@media (max-width: 700px) {
+    .duaTitle {
+        font-size: 22px;
+    }
+    .mainDuaDiv {
+        font-size: 20px;
+    }
+}
