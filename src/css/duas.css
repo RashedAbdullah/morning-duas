@@ -10,14 +10,8 @@
 }
 
 ::selection {
-    color: rgb(0, 63, 63);
-    background-color: white;
-}
-
-body {
     color: white;
-    background-color: rgb(0, 59, 59);
-    padding: 20px;
+    background-color: black;
 }
 
 .duaTitle {
@@ -31,18 +25,12 @@ body {
     font-family: KFGQPC;
     font-size: 25px;
     padding: 20px;
-    border: 1px solid white;
     border-radius: 10px;
 }
 
 .mainDuaDiv .duaNumber {
     margin-left: 20px;
     font-size: 30px;
-    color: aquamarine;
-}
-
-.mainDuaDiv .singleDuaTitle {
-    color: rgb(170, 255, 255);
 }
 
 .mainDuaDiv .duaRepeat  {
@@ -51,10 +39,6 @@ body {
 
 .duaReference {
     font-size: 14px;
-}
-
-.markingCompleted {
-    color: aqua;
 }
 
 .duafooter {
